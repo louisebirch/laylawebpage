@@ -1,0 +1,201 @@
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:auto;
+  margin-top:auto; 
+ 
+}
+
+body {background-color: #ffffff;} 
+				h1 {color: #000000;
+		      font-weight:bolder; }
+				h2 {color:#13001a; } 
+				h3 {color:#730099; } 
+				h4 {color:#ffb3ff ; } 
+				h5 {color:	#f2e6ff; } 
+				li {color: 	#ffff99; }
+				i { color:#ffff99;} 
+				
+
+
+
+ 
+
+
+.fa {
+  padding: 30px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center; 
+  text-decoration: none;
+  margin:10px 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  float: left; 
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  float:left; 
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background:#ffcc99;
+  color: white;
+  float:left;
+}
+
+
+  
+
+.boxone {
+	height:125px;
+	width:96%;
+	font-family: 'Nothing You Could Do', cursive;
+	background-color:white;
+	text-align: center;
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 5px;
+}
+	
+
+	
+
+
+.boxtwo {
+	height:300px;
+	width:96%;
+	background-color:#ff80df;
+	text-align:center;
+	font-family: 'Nothing You Could Do', cursive;
+	border: 2px solid grey;
+  padding: 20px;
+  margin: 5px;
+	
+	
+}
+
+.boxthree { 
+height:500px; 
+width:60%;
+background-color:#ffff80;
+margin:auto; 
+float:left;
+font-family: 'Poiret One', cursive;
+text-align:center;
+	border: 2px solid grey;
+  padding: 20px;
+  margin: 5px;
+	
+  
+  
+
+
+
+}
+
+.boxfour { 
+height:500px;
+width: 30%;
+background-color:#8000ff;
+margin:auto;
+font-family: 'Nothing You Could Do', cursive;
+float:right; 
+	border: 2px solid grey;
+  padding: 20px;
+  margin: 5px;
+
+
+} 
+
+.boxfive { 
+height: 200px;
+width: 96%; 
+background-color:#6afb9a; 
+font-family:  'Poiret One', cursive;
+text-align:center; 
+clear:both; 
+border: 2px solid grey;
+  padding: 20px;
+  margin: 5px;
+
+
+}
+
+.boxsix { 
+height:300px;
+width:32%; 
+background-color:#8000ff;
+font-family: 'Poiret One', cursive;
+text-align:center; 
+float:right; 
+border: 2px solid grey;
+  padding: 4px;
+  margin: 2px;
+
+
+
+} 
+
+.boxseven { 
+height:300px;
+width:32%; 
+background-color:#d9b3ff;
+float: right; 
+border: 2px solid grey;
+  padding: 4px;
+  margin: 2px;
+
+} 
+
+.boxeight { 
+height:300px;
+width:32%; 
+background-color:#ff80df;
+font-family: 'Poiret One', cursive;
+text-align:center; 
+float:right;
+border: 2px solid grey;
+  padding: 4px;
+  margin: 2px;
+
+
+} 
+
+.boxnine { 
+height: 100px; 
+background-color:#ffff99; 
+font-family: 'Nothing You Could Do', cursive;
+text-align:center; 
+clear:both; 
+border: 2px solid grey;
+  padding: 4px;
+  margin: 2px;
+
+
+} 
+
+
+
+
+	
+	
+
+
+ 
